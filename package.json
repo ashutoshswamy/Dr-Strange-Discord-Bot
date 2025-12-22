@@ -1,0 +1,25 @@
+{
+  "name": "dr-strange",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ashutoshswamy/Dr-Strange-Discord-Bot#readme",
+  "bugs": {
+    "url": "https://github.com/ashutoshswamy/Dr-Strange-Discord-Bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshswamy/Dr-Strange-Discord-Bot.git"
+  },
+  "license": "MIT",
+  "author": "Ashutosh Swamy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "mongoose": "^9.0.2"
+  }
+}
